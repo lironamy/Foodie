@@ -71,6 +71,7 @@ li a img{
 }
 
 .product-item-footer{
+    height: 2rem;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
