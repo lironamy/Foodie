@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&display=swap');
 
 *{
     box-sizing: border-box;
@@ -10,14 +10,25 @@ html{
 }
 
 html,button{
-    font-family: 'Concert One', cursive;
+    font-family: 'Bricolage Grotesque', sans-serif;
 }
 
 body{
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 a{
     text-decoration: none;
 }
+
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: #F8F5F2;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+      background: #6d6d6d;
+  }
+  
