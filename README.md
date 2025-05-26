@@ -1,5 +1,8 @@
 # Foodie
 
+![1](https://github.com/user-attachments/assets/211504b4-a26f-4102-bf3b-1b01fb58d1c2)
+
+
 ## Overview
 
 This Food Ordering Web App is an Angular-based application that allows users to browse a selection of food items, add them to their cart, and place orders. It provides features for user authentication, cart management, order placement, and food item browsing.
@@ -96,6 +99,13 @@ The application should now be running locally.
 - leaflet for the map
 
 ## Screenshots
+
+![2](https://github.com/user-attachments/assets/04dc1d8a-ade8-4e8d-a68b-2c448e921a14)
+
+![3](https://github.com/user-attachments/assets/4ad5be59-bdd6-4a70-8672-536da826ae2c)
+
+![4](https://github.com/user-attachments/assets/4e84123b-d09c-4985-89be-78a2c6547912)
+
 
 ## Acknowledgments
 This project was built using Angular, a powerful web framework.
