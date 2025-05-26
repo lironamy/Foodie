@@ -4,6 +4,16 @@
 
 This Food Ordering Web App is an Angular-based application that allows users to browse a selection of food items, add them to their cart, and place orders. It provides features for user authentication, cart management, order placement, and food item browsing.
 
+## Table of Contents
+- [Live Website](#live-website)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Endpoints](#api-endpoints)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+
 ## Features
 
 - User Authentication: Users can create accounts, log in, and stay authenticated throughout their session using JSON Web Tokens (JWTs). Unauthorized users are redirected to the login page.
@@ -84,6 +94,8 @@ The application should now be running locally.
 - MongoDB for the database
 - Node.js for the backend server
 - leaflet for the map
+
+## Screenshots
 
 ## Acknowledgments
 This project was built using Angular, a powerful web framework.
